@@ -1,4 +1,4 @@
-# Homework assignment: numstack solkvers
+# Homework assignment: numstack solvers
 
 ראינו בהרצאה שאפשר לפתור משוואות ליניאריות בעזרת numpy.linalg.solve. ניתן לפתור משוואות כלליות גם בעזרת scipy.optimize.root.
 מטרת השאלה היא להשוות את זמני הריצה של שתי השיטות.
